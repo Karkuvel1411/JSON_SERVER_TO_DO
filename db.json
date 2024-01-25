@@ -1,105 +1,11 @@
 {
     "users": [
-      {
-        "email": "malarraj712@gmail.com",
-        "password": "AkiRaj@141117",
-        "name": "Murugan",
-        "phonenumber": "9092381410",
-        "id": 1
-      },
-      {
-        "email": "karkuvelraj60@gmail.com",
-        "password": "AkiRaj@141118",
-        "name": "Karkuvel",
-        "phonenumber": "9092381410",
-        "id": 2
-      },
-      {
-        "email": "prathiusha22@gmail.com",
-        "password": "AkiRaj@141118",
-        "name": "Prathi Usha",
-        "phonenumber": "9092381410",
-        "id": 3
-      },
-      {
-        "email": "malarraj712@gmail.com",
-        "password": "AkiRaj@141118",
-        "name": "Murugan",
-        "phonenumber": "9092381410",
-        "id": 4
-      },
-      {
-        "email": "malarraj712@gmail.com",
-        "password": "AkiRaj@141118",
-        "name": "Murugan",
-        "phonenumber": "9092381410",
-        "id": 5
-      },
-      {
-        "email": "malarraj712@gmail.com",
-        "password": "AkiRaj@141118",
-        "name": "Murugan",
-        "phonenumber": "9092381410",
-        "id": 6
-      },
-      {
-        "email": "karkuvelraj60@gmail.com",
-        "password": "AkiRaj@141118",
-        "name": "Barath",
-        "phonenumber": "9092381410",
-        "id": 7
-      },
-      {
-        "email": "malarraj712@gmail.com",
-        "password": "AkiRaj@141118",
-        "name": "Karkuvelraj Murugan",
-        "phonenumber": "0909238141",
-        "id": 8
-      },
-      {
-        "email": "mspmalar1311@gmail.com",
-        "password": "AkiRaj@141118",
-        "name": "Karkuvelraj Murugan",
-        "phonenumber": "9092381410",
-        "id": 9
-      },
-      {
-        "email": "mspmalar1311@gmail.com",
-        "password": "AkiRaj@141118",
-        "name": "Karkuvelraj Murugan",
-        "phonenumber": "0909238141",
-        "id": 10
-      },
-      {
-        "email": "malarraj712@gmail.com",
-        "password": "AkiRaj@141118",
-        "name": "Karkuvelraj Murugan",
-        "phonenumber": "9092381410",
-        "id": 11
-      },
-      {
-        "email": "malarraj712@gmail.com",
-        "password": "AkiRaj@141118",
-        "name": "Karkuvelraj Murugan",
-        "phonenumber": "9092381410",
-        "id": 12
-      },
-      {
-        "email": "akiraj60@gmail.com",
-        "password": "AkiRaj@141118",
-        "name": "Akila Devi",
-        "phonenumber": "9092381419",
-        "id": 13
-      }
+   
     ],
     "tasks": [
-      {
-        "Title": "Reading books",
-        "Desc": "Reading a english book",
-        "UserId": "4",
-        "id": 1,
-        "status": 1,
-        "Date": "16/01/2024"
-      }
+  
+    ],
+    "taskcompleted":[
+      
     ]
   }
